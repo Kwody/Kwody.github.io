@@ -1,0 +1,26 @@
+// header {
+//     height: 100px;
+//     background-color: $mainBGColor;
+//     text-align: center;
+//     line-height: 100px;
+//     color: $mainTextColor;
+//     font-size: 40px;
+//     display: flex;
+//     flex-flow: row wrap;
+//     justify-content: space-between;
+//     align-items: center;
+//     .menu {
+//         width: 60%;
+//         height: 100%;
+//         @include flex(row, nowrap, space-around, center);
+//         .menuLink {
+//             @include flexCenter();
+//             width: 100px;
+//             height: 60%;
+//             // text-align: center;
+//             background-color: $mainTextColor;
+//             color: $mainBGColor;
+//             text-decoration: none;
+//         }
+//     }
+// }
